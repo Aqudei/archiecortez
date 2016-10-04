@@ -1,2 +1,4 @@
 __pycache__
 db.sqlite3
+venv
+doc-django-1.9
